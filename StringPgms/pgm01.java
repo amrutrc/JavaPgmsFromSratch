@@ -1,3 +1,5 @@
+package StringPgms;
+
 public class pgm01 
 {
     public static void main(String[] args) 
