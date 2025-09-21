@@ -1,3 +1,5 @@
+/* Java pgm to check whether the string is palindrome using for loop */
+
 package StringPgms;
 
 public class pgm01 
